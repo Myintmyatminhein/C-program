@@ -1,0 +1,2 @@
+/*write a program input number of integers randomly and search on value form
+the array and then display search value index.*/
